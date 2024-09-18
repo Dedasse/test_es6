@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/patrick-ausderau/test_es6#readme",
   "dependencies": {
-    "express": "^4.20.0"
+    "express": "^4.21.0"
   }
 }
